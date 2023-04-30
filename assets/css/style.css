@@ -1,4 +1,4 @@
-/* Universal Structre and Styling Rules */
+/* Universal Structure and Styling Rules */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -18,7 +18,7 @@ p {
     font-size: 16px;
 }
 
-/* Header content style */
+/* Header Content Style */
 
 .header {
     padding: 20px;
@@ -62,7 +62,7 @@ p {
     background-position: center;
 }
 
-/* Side content stylizing */
+/* Side Content Style */
 
 .benefits {
     margin-right: 20px;
@@ -92,7 +92,7 @@ p {
     max-width: 150px;
 }
 
-/* Main content stylizing */
+/* Main Content Style */
 
 .content {
     width: 75%;
@@ -129,7 +129,7 @@ p {
     font-size: 36px;
 }
 
-/* footer stylizing */
+/* Footer Style */
 .footer {
     padding: 30px;
     clear: both;
